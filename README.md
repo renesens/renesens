@@ -1,4 +1,4 @@
-[![Header] (https://github.com/renesens/renesens/blob/main/asserts/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner.png)]
+![beige](https://github.com/renesens/renesens/blob/main/asserts/Beige.png)
 
 About me
 
