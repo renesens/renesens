@@ -1,8 +1,8 @@
 ## Hi, I'm Renata :wave:
 
-## The QA Engineer profession attracts me because of its important role in software development and the variety of tools I use in my work. I enjoy poking around in programs/applications and finding flaws in them.
+## The QA Engineer profession attracts me because of its important role in software development and the variety of tools I use in my work. I enjoy poking around in programs and applications and finding flaws in them.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renata-cherniavska/)
+## Follow Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renata-cherniavska/)
 
 ### Languages and Tools
 
@@ -22,7 +22,7 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-213644.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%23316192.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renesens&show_icons=true)](https://github-readme-stats.vercel.app/api?username=renesens)
 
 
-Follow me
 
