@@ -1,6 +1,8 @@
-![beige](https://github.com/renesens/renesens/blob/main/asserts/Beige.png)
+## Hi, I'm Renata :wave:
 
-## The QA Engineer profession attracts me because of its important role in software development, as well as the variety of tools I use in my work. I love digging into programs/applications and finding flaws in them.
+## The QA Engineer profession attracts me because of its important role in software development and the variety of tools I use in my work. I enjoy poking around in programs/applications and finding flaws in them.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renata-cherniavska/)
 
 ### Languages and Tools
 
