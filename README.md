@@ -1,6 +1,6 @@
 ## Hi, there :wave:
 
-My name is Renata and I'm a QA Engineer.
+## My name is Renata and I'm a QA Engineer.
 This repo represents my skillsets.
 
 ### Follow Me:
