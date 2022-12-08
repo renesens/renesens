@@ -1,6 +1,7 @@
-## Hi, I'm Renata :wave:
+## Hi, there :wave:
 
-### The QA Engineer profession attracts me because of its important role in software development and the variety of tools I use in my work. I enjoy poking around in programs and applications and finding flaws in them.
+My name is Renata and I'm a QA Engineer.
+This repo represents my skillsets.
 
 ### Follow Me:
 
@@ -27,10 +28,9 @@
 
 ### Testing documentation
 
-* CheckLists and Bug-Reports
-* Postman Collections
-* SQL Queries
-* DevTools
-
+- CheckLists and Bug-Reports
+- Postman Collections
+- SQL Queries
+- DevTools
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renesens&show_icons=true)](https://github-readme-stats.vercel.app/api?username=renesens)
