@@ -1,10 +1,13 @@
 ## Hi, I'm Renata :wave:
 
-## The QA Engineer profession attracts me because of its important role in software development and the variety of tools I use in my work. I enjoy poking around in programs and applications and finding flaws in them.
+### The QA Engineer profession attracts me because of its important role in software development and the variety of tools I use in my work. I enjoy poking around in programs and applications and finding flaws in them.
 
-## Follow Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renata-cherniavska/)
+### Follow Me:
 
-### Languages and Tools
+<div><a href="https://www.linkedin.com/in/renata-cherniavska/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+</div>
+           
+### Languages and Tools:
 
 ![Postman](https://img.shields.io/badge/Postman-F26B3A?style=for-the-badge&logo=postman&logoColor=FFFFFF)
 ![Swagger](https://img.shields.io/badge/-Swagger-%234ea94b?style=for-the-badge&logo=swagger&logoColor=white)
@@ -22,7 +25,12 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-213644.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%23316192.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+### Testing documentation
+
+* CheckLists and Bug-Reports
+* Postman Collections
+* SQL Queries
+* DevTools
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renesens&show_icons=true)](https://github-readme-stats.vercel.app/api?username=renesens)
-
-
-
