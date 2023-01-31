@@ -31,7 +31,7 @@ This repo represents my skillsets.
 - [Test Documentation](https://github.com/renesens/Test_Documentation)
 - [Postman Collections](https://github.com/renesens/Postman)
 - [GitHub_branches](https://github.com/renesens/GitHub_branches)
-- [Android_Studio](https://github.com/renesens?tab=repositories)
+- [Android_Studio](https://github.com/renesens/Android_Studio)
 - [SQL Queries](https://github.com/renesens/SQL)
 - [DevTools](https://github.com/renesens/Devtools)
 - [HTML_CSS](https://github.com/renesens/HTML_CSS)
