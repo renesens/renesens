@@ -35,6 +35,7 @@ This repo represents my skillsets.
 - [SQL Queries](https://github.com/renesens/SQL)
 - [DevTools](https://github.com/renesens/Devtools)
 - [HTML_CSS](https://github.com/renesens/HTML_CSS)
+- [Charles](https://github.com/renesens/Charles)
 - [Jmeter](https://github.com/renesens/Jmeter)
 - [GitBash](https://github.com/renesens/GitBash)
 - [GitHub](https://github.com/renesens/GitHub_branches)
