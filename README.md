@@ -8,8 +8,7 @@ This repo represents my skillsets.
 
 <div><a href="https://www.linkedin.com/in/renata-cherniavska/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
 </div>
-<div><a href="https://drive.google.com/file/d/1FAJNuPd6ne0EcQqBFOtm4LIBKs0Zxuer/view?usp=share_link"><img src="https://user-images.githubusercontent.com/93192847/183036594-a6a9ee74-0138-4149-b530-5c8500587a34.png"/> 
-</div>
+
            
 ### Languages and Tools:
 
