@@ -28,6 +28,6 @@ More projects are in my [portfolio](https://leadstepit.framer.website/).
 
 I started as a telecom engineer at Ukrtelecom and Nokia Networks. Then I moved to manual QA and marketing operations, and now I work on business automation.
 
-The older repositories here are from my QA learning: [Postman](https://github.com/renesens/Postman), [SQL](https://github.com/renesens/SQL) and [JMeter](https://github.com/renesens/Jmeter).
+The older repositories here are from my QA learning: [Postman](https://github.com/renesens/Postman) and [SQL](https://github.com/renesens/SQL).
 
 [LinkedIn](https://www.linkedin.com/in/renata-cherniavska/) · [Portfolio](https://leadstepit.framer.website/)
